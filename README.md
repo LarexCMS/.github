@@ -45,7 +45,6 @@ Here’s a quick overview of key repositories under the LarexCMS organization:
 
 ## 📚 Documentation
 
-📖 Coming soon at: [https://larexcms.org](https://larexcms.org)  
 Temporary: See the [`docs`](https://github.com/LarexCMS/docs) repository.
 
 ---
@@ -58,7 +57,7 @@ We welcome contributions! Whether it's a feature, bugfix, or a new module idea �
 
 ## 💬 Join the Community
 
-- [Discussions](https://github.com/orgs/LarexCMS/discussions)
+- [Discussions](https://github.com/LarexCMS)
 - [Issues & Roadmap](https://github.com/LarexCMS/core/issues)
 - More coming soon!
 
@@ -66,7 +65,6 @@ We welcome contributions! Whether it's a feature, bugfix, or a new module idea �
 
 ## 🧑‍🚀 Maintained by
 
-**The LarexCMS Team**  
-Built with ❤️ by Laravel developers.
+*The LarexCMS Team*
 
 ---
