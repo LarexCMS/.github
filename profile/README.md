@@ -1,64 +1,31 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LarexCMS/assets/main/logo.svg" alt="LarexCMS Logo" width="120" />
-</p>
+# xPtero
 
-<h1 align="center">Welcome to LarexCMS 👋</h1>
+Hey there! 👋
 
-<p align="center">
-  <strong>A modern, modular, and flexible Content Management System built with Laravel.</strong>
-</p>
+We're a small development team that builds content management systems. Think of us as the folks who make it easier for people to manage their websites without pulling their hair out.
 
-<p align="center">
-  💡 Clean architecture &nbsp; • &nbsp; 🧩 Module-based design &nbsp; • &nbsp; 🚀 Developer-first
-</p>
+## What we're working on
 
----
+**PteroCMS** - Our main project. It's a Laravel-based CMS that actually makes sense to use and develop with. We built it using modular architecture because we got tired of monolithic systems that become impossible to maintain.
 
-## 🛠 What is LarexCMS?
+## Why the name?
 
-**LarexCMS** is an open-source CMS platform built using the power of the **Laravel** framework and the modular system from **nwidart/laravel-modules**.
+Pterodactyls were pretty good at adapting and surviving. We figured that's a good approach for software too - build things that can evolve and last.
 
-It's designed to help developers build scalable, maintainable, and customizable web applications — fast.
+## Our approach
 
----
+- Keep it simple, but not simplistic
+- Make it work for developers first
+- Build with Laravel because it's solid
+- Use modules so you can actually extend things
+- Write documentation that people can understand
 
-## 📦 Our Repositories
+## Current status
 
-Explore the core parts of LarexCMS:
-
-- 🔧 [`core`](https://github.com/LarexCMS/core) – Base system and service providers
-- 🖥️ [`admin`](https://github.com/LarexCMS/admin) – Admin panel UI
-- 🧑 [`module-user`](https://github.com/LarexCMS/module-user) – User management module
-- 📚 [`docs`](https://github.com/LarexCMS/docs) – Documentation & guides
-
-> New modules and tools coming soon!
+We're actively developing PteroCMS and eating our own dog food (using it for real projects). It's getting better every day.
 
 ---
 
-## 📚 Documentation
+*Part of TeamInfinity Pvt Ltd*
 
-👉 For now, check out the [`docs` repository](https://github.com/LarexCMS/docs).
-
----
-
-## 🤝 Contribute
-
-LarexCMS is open for contributions!  
-If you're a Laravel developer passionate about modular and clean architecture — we'd love your help.
-
-- 🧱 Build a module
-- 🐛 Fix a bug
-- 📖 Improve documentation
-
-Start here 👉 [`CONTRIBUTING.md`](https://github.com/LarexCMS/docs/blob/main/CONTRIBUTING.md)
-
----
-
-## 🌍 Join Us
-
-We’re building a small but growing ecosystem of modular Laravel packages.
-Stay tuned and watch this space 👀
-
-Follow [@LarexCMS](https://github.com/LarexCMS) and ⭐️ your favorite repos!
-
----
+If you want to collaborate or just say hi, feel free to reach out. We're always interested in talking with other developers who care about making good software.
