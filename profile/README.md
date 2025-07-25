@@ -1,35 +1,64 @@
-<h1 align="center">LarexCMS</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LarexCMS/assets/main/logo.svg" alt="LarexCMS Logo" width="120" />
+</p>
+
+<h1 align="center">Welcome to LarexCMS 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/built%20with-Laravel-red?style=flat-square" alt="Laravel Badge">
-  <img src="https://img.shields.io/badge/modular-powered%20by%20nwidart/modules-blue?style=flat-square" alt="Modules Badge">
-  <br><br>
-  <strong>A modern, modular, and flexible CMS built on Laravel.</strong>
+  <strong>A modern, modular, and flexible Content Management System built with Laravel.</strong>
+</p>
+
+<p align="center">
+  💡 Clean architecture &nbsp; • &nbsp; 🧩 Module-based design &nbsp; • &nbsp; 🚀 Developer-first
 </p>
 
 ---
 
-## 🌟 About LarexCMS
+## 🛠 What is LarexCMS?
 
-**LarexCMS** is a powerful, developer-first content management system built using the **Laravel** framework and structured with **nwidart/laravel-modules** for complete modularity.
+**LarexCMS** is an open-source CMS platform built using the power of the **Laravel** framework and the modular system from **nwidart/laravel-modules**.
 
-Whether you're building a blog, a business platform, or a custom web app, LarexCMS gives you full control over content and structure — with elegant Laravel code underneath.
-
----
-
-## ⚙️ Key Features
-
-- 🧩 **Modular Architecture** – Powered by `nwidart/modules` for clean and scalable code separation.
-- 🖥️ **Admin Panel** – Customizable and extendable CMS dashboard.
-- 🧑‍💻 **Developer Friendly** – Built with Laravel best practices and clean structure.
-- 🧱 **Component-Based** – Easy to plug, play, or replace modules.
-- 🌐 **Multi-language Support** (coming soon)
-- 🔐 **RBAC & Permissions** (planned)
+It's designed to help developers build scalable, maintainable, and customizable web applications — fast.
 
 ---
 
-## 🧑‍🚀 Maintained by
+## 📦 Our Repositories
 
-*The LarexCMS Team*
+Explore the core parts of LarexCMS:
+
+- 🔧 [`core`](https://github.com/LarexCMS/core) – Base system and service providers
+- 🖥️ [`admin`](https://github.com/LarexCMS/admin) – Admin panel UI
+- 🧑 [`module-user`](https://github.com/LarexCMS/module-user) – User management module
+- 📚 [`docs`](https://github.com/LarexCMS/docs) – Documentation & guides
+
+> New modules and tools coming soon!
+
+---
+
+## 📚 Documentation
+
+👉 For now, check out the [`docs` repository](https://github.com/LarexCMS/docs).
+
+---
+
+## 🤝 Contribute
+
+LarexCMS is open for contributions!  
+If you're a Laravel developer passionate about modular and clean architecture — we'd love your help.
+
+- 🧱 Build a module
+- 🐛 Fix a bug
+- 📖 Improve documentation
+
+Start here 👉 [`CONTRIBUTING.md`](https://github.com/LarexCMS/docs/blob/main/CONTRIBUTING.md)
+
+---
+
+## 🌍 Join Us
+
+We’re building a small but growing ecosystem of modular Laravel packages.
+Stay tuned and watch this space 👀
+
+Follow [@LarexCMS](https://github.com/LarexCMS) and ⭐️ your favorite repos!
 
 ---
