@@ -1,12 +1,35 @@
-## Hi there 👋
+<h1 align="center">LarexCMS</h1>
 
-<!--
+<p align="center">
+  <img src="https://img.shields.io/badge/built%20with-Laravel-red?style=flat-square" alt="Laravel Badge">
+  <img src="https://img.shields.io/badge/modular-powered%20by%20nwidart/modules-blue?style=flat-square" alt="Modules Badge">
+  <br><br>
+  <strong>A modern, modular, and flexible CMS built on Laravel.</strong>
+</p>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌟 About LarexCMS
+
+**LarexCMS** is a powerful, developer-first content management system built using the **Laravel** framework and structured with **nwidart/laravel-modules** for complete modularity.
+
+Whether you're building a blog, a business platform, or a custom web app, LarexCMS gives you full control over content and structure — with elegant Laravel code underneath.
+
+---
+
+## ⚙️ Key Features
+
+- 🧩 **Modular Architecture** – Powered by `nwidart/modules` for clean and scalable code separation.
+- 🖥️ **Admin Panel** – Customizable and extendable CMS dashboard.
+- 🧑‍💻 **Developer Friendly** – Built with Laravel best practices and clean structure.
+- 🧱 **Component-Based** – Easy to plug, play, or replace modules.
+- 🌐 **Multi-language Support** (coming soon)
+- 🔐 **RBAC & Permissions** (planned)
+
+---
+
+## 🧑‍🚀 Maintained by
+
+*The LarexCMS Team*
+
+---
